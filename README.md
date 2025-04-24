@@ -3,7 +3,7 @@
 A collection of Python scripts designed to compile and visualize essential features of circRNAs. This toolkit supports bioinformatics researchers in analyzing circRNA attributes and classifications based on their expression profiles across various diseases.
 
 Features:
-> Subdivided bar graphs for comparative visualization.  
+> Subdivided barplots for comparative visualization.  
 > Customizable scripts for generating informative plots.  
 > Flexible design to accommodate a variety of circRNA-related datasets.
 > Ready-to-use code suitable for publication-quality figures.
@@ -20,4 +20,4 @@ Requirements:
 > Libraries: pandas, numpy, matplotlib.pyplot
 
 Note:
-All scripts were developed and executed on Google Colab for ease of access and reproducibility. The code can be run locally or on Colab without modification.
+All scripts were developed and executed on Google Colab for ease of access and reproducibility. The code can be run locally or on Colab with or without modification.
